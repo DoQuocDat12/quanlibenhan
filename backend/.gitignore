@@ -1,0 +1,10 @@
+node_modules/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Hardhat files
+/cache
+/artifacts
